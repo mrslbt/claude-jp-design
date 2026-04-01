@@ -10,7 +10,7 @@ claude plugin install https://github.com/mrslbt/jp-web-design-guardrails
 
 ## What It Does
 
-When you ask Claude Code to build anything involving Japanese — a landing page, a form, a component — this skill automatically activates and ensures the output follows professional Japanese web standards.
+When you ask Claude Code to build anything involving Japanese (a landing page, a form, a component) this skill automatically activates and ensures the output follows professional Japanese web standards.
 
 ### Typography
 - Correct font stacks (Gothic/Mincho with Latin-first ordering)
@@ -80,7 +80,7 @@ skills/jp-design/
 
 ## Author
 
-**Marsel Bait** — Designer based in Tokyo
+**Marsel Bait** - Designer based in Tokyo
 - [Portfolio](https://marselbait.replit.app/)
 - [LinkedIn](https://www.linkedin.com/in/marselbait/)
 - [GitHub](https://github.com/mrslbt)
